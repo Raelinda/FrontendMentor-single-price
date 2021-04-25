@@ -150,7 +150,7 @@ Layout
 }
 
 /* Meda Query-DESKTOP */
-@media (min-width: 68.25em) {
+@media (min-width: 56.25em) {
   .card {
     max-width: 50%;
   }
